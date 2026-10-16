@@ -1,5 +1,7 @@
 # Stock Research Portfolio Demo
 
+[Open the live interactive demo](https://asafa77.github.io/stock-research-portfolio/)
+
 An interactive, résumé-facing demonstration of a local-first stock valuation and research
 application. The public edition shows the product experience and deterministic screening logic
 without publishing private market-data caches, SEC documents, credentials, local databases, or
