@@ -1,0 +1,10 @@
+.env*
+node_modules/
+web/node_modules/
+web/dist/
+web/portfolio-dist/
+web/coverage/
+web/*.tsbuildinfo
+web/vite.config.js
+web/vite.config.d.ts
+.DS_Store
